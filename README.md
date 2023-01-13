@@ -23,6 +23,9 @@ Além disso, foi utilizado as boas práticas de programação orientadas a objet
 
 
 # Tecnologias utilizadas
+## Front end
+- JavaFX
+
 ## Back end
 - Java
 - JDBC
